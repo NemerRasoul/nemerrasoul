@@ -51,7 +51,7 @@ Currently, I'm interested in **System development**, **AI tools**, and backend-f
 ---
 
 📂 **Projects & Learning experiences**
-* **Munktells 2025 GENAI Hackathon (Volvo & Microsoft)** – Participated in AI prototyping using RAG, OpenAI Agent SDK, and vector search. Gained hands-on experience with local LLMs, using and modifying it with AI, and learned about customer-facing agent systems and internal engineering tools for troubleshooting and improving machine quality.
+* **Munktells 2025 GENAI Hackathon (Volvo & Microsoft)** – Participated in Agentic AI prototyping using RAG, OpenAI Agent SDK, and vector search. Gained hands-on experience with local LLMs, and learned about customer-facing agent systems and internal engineering tools for troubleshooting and improving machine quality.
 
 * Console-based Web Shop: https://github.com/NemerRasoul/WebShop
 * Console-based Administration System for Parking Garages: https://github.com/NemerRasoul/DeluxeParking
