@@ -53,5 +53,6 @@ Currently, I'm interested in **System development**, **AI tools**, and backend-f
 📂 **Projects & Learning experiences**
 * **Munktells 2025 GENAI Hackathon (Volvo & Microsoft)** – Participated in Agentic AI prototyping using RAG, OpenAI Agent SDK, and vector search. Gained hands-on experience with local LLMs, and learned about customer-facing agent systems and internal engineering tools for troubleshooting and improving machine quality.
 
+* .NET MAUI Application - Fuel Finder: Compare fuel prices, find cheapest station, track traffic incidents, log consumption, interactive map. https://github.com/NemerRasoul/FuelFinder
 * Console-based Web Shop: https://github.com/NemerRasoul/WebShop
 * Console-based Administration System for Parking Garages: https://github.com/NemerRasoul/DeluxeParking
